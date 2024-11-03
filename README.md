@@ -1,1 +1,1 @@
-# Yolo for yolo
+# Yolo
